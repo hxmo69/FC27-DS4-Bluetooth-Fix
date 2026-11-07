@@ -30,7 +30,7 @@ FC 27 never talks to the Bluetooth DS4. It sees a normal Xbox 360 controller ins
 
 - Windows 10 or 11
 - Your DualShock 4, paired with your PC over Bluetooth
-- **Python 3.12 or 3.13** from [python.org](https://www.python.org/downloads/). (Recommended over the Microsoft Store version, which can confuse HidHide.) Tick **"Add python.exe to PATH"** during setup.
+- **Python 3.12 or 3.13** from [https://www.python.org/downloads/windows/). OR The Microsoft Store version, which can confuse HidHide."worked with me just fine" ) Tick **"Add python.exe to PATH"** during setup.
 - **HidHide**: <https://github.com/nefarius/HidHide/releases> (download and install the latest setup)
 - **ViGEmBus**: installed automatically in step 3 below. If that fails, install it manually from <https://github.com/nefarius/ViGEmBus/releases>
 
