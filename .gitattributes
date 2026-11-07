@@ -1,0 +1,2 @@
+# keep Windows batch files exactly as committed (CRLF)
+*.bat -text
